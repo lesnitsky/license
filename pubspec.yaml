@@ -1,0 +1,15 @@
+name: license
+version: 1.0.0
+description: CLI licesne generator
+homepage: https://github.com/lesnitsky/license
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+executables:
+  license: license
+
+dependencies:
+  l_cli: ^1.0.2
+  tmpl: ^1.0.0
+  guard: ^1.0.1
