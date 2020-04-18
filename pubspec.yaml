@@ -1,6 +1,6 @@
 name: license
-version: 1.0.0
-description: CLI licesne generator
+version: 1.0.1
+description: Command line tool which creates LICENSE file for your project
 homepage: https://github.com/lesnitsky/license
 
 environment:

@@ -1,0 +1,5 @@
+From terminal
+
+```
+license
+```

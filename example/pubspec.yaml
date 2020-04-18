@@ -1,0 +1,6 @@
+name: license_example
+version: 1.0.0
+
+dependencies:
+  license:
+    path: ../
